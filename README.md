@@ -29,7 +29,7 @@ pip install --upgrade pip
 
 ### Extract the Dataset
 
-The dataset is provided as a compressed `.zip` file in the `Dataset/` directory. Extract it before running any scripts:
+The dataset is provided as a compressed `.zip` file in the `Dataset/` directory which can be found in [Google Drive](https://drive.google.com/drive/folders/1t_ah-KeUOUMu8Pby1uv8-BqNjrWxkkuO?usp=share_link). Extract it before running any scripts:
 
 ```shell
 unzip Dataset/<dataset_name>.zip -d Dataset/
