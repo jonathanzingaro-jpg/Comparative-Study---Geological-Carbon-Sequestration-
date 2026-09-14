@@ -1,0 +1,11 @@
+# requirements.txt
+torch
+torchvision
+tqdm
+numpy
+scipy
+torchinfo
+contextlib2
+matplotlib
+pathlib
+torchsummary
